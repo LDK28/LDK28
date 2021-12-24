@@ -13,6 +13,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-0088cc?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/LDK_28)
 
 - 🔭 I’m currently working at [I-Core](https://i-core.ru/)
 
