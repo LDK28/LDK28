@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 
 STATS
 
-[![Visits Badge](https://badges.pufler.dev/visits/LDK28/LDK28)]
-[![Years Badge](https://badges.pufler.dev/years/LDK28)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/LDK28)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/LDK28/git-badges)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/LDK28)](https://badges.pufler.dev)
+[![Visits now Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://github.com/LDK28)
+[![Years Badge](https://badges.pufler.dev/years/LDK28)](https://github.com/LDK28)
+[![Repos Badge](https://badges.pufler.dev/repos/LDK28)](https://github.com/LDK28)
+[![Updated Badge](https://badges.pufler.dev/updated/LDK28/git-badges)](https://github.com/LDK28)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/LDK28)](https://github.com/LDK28)
 
 
 
