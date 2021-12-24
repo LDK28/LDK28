@@ -13,9 +13,9 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-0088cc?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/LDK_28)
-[![VKontakte Badge](https://img.shields.io/badge/-VKontakte-0088cc?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/dkostev28)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/dmitry.kostev)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/LDK_28)
+[![VKontakte Badge](https://img.shields.io/badge/-VKontakte-0077ff?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/dkostev28)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/dmitry.kostev)
 
 - 🔭 I’m currently working at [I-Core](https://i-core.ru/)
 
