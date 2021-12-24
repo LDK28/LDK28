@@ -1,10 +1,4 @@
 ### Hi there 👋  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=LDK28.LDK28)
-STATS
-[![Visits Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://badges.pufler.dev)
-
-LINKS
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
 
 **LDK28/LDK28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +8,20 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">Software engineer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ldk28&label=Profile%20views&color=0e75b6&style=flat" alt="ldk28" /> </p>
+STATS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LDK28" alt="LDK28" /></a> </p>
+[![Visits Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/LDK28)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/LDK28)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/LDK28/git-badges)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/LDK28)](https://badges.pufler.dev)
 
-<p align="left"> <a href="https://twitter.com/LDK_28" target="blank"><img src="https://img.shields.io/twitter/follow/LDK_28?logo=twitter&style=for-the-badge" alt="LDK_28" /></a> </p>
 
-<p align="left"> <a href="https://t.me/DKey28" target="blank"><img src="https://img.shields.io/telegram/follow/DKey28?logo=telegram&style=for-the-badge" alt="DKey28" /></a> </p>
 
+LINKS
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
 
 - 🔭 I’m currently working at [I-Core](https://i-core.ru/)
 
