@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LDK28" alt="LDK28" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/LDK_28" target="blank"><img src="https://img.shields.io/twitter/follow/LDK_28?logo=twitter&style=for-the-badge" alt="ldk28_28" /></a> </p>
+<p align="left"> <a href="https://twitter.com/LDK_28" target="blank"><img src="https://img.shields.io/twitter/follow/LDK_28?logo=twitter&style=for-the-badge" alt="LDK_28" /></a> </p>
+
+<p align="left"> <a href="https://t.me/DKey28" target="blank"><img src="https://img.shields.io/telegram/follow/DKey28?logo=telegram&style=for-the-badge" alt="DKey28" /></a> </p>
+
 
 - 🔭 I’m currently working at [I-Core](https://i-core.ru/)
 
