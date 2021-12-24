@@ -1,5 +1,6 @@
 ### Hi there 👋  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=LDK28.LDK28)
 [![Visits Badge](https://badges.LDK28.dev/visits/puf17640/git-badges)](https://badges.LDK28.dev)
+[![Contributors Display](https://badges.LDK28.dev/contributors/puf17640/git-badges?size=50&padding=5&bots=true)](https://badges.LDK28.dev)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
