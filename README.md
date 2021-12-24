@@ -3,7 +3,7 @@
 
 <h3 align="left">STATS sins 25.12.2021</h3>
 
-[![Visits Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://github.com/LDK28)
 [![Years Badge](https://badges.pufler.dev/years/LDK28)](https://github.com/LDK28)
 [![Repos Badge](https://badges.pufler.dev/repos/LDK28)](https://github.com/LDK28?tab=repositories)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/LDK28)](https://github.com/LDK28)
