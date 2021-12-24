@@ -1,4 +1,5 @@
 ### Hi there 👋  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=LDK28.LDK28)
+![Visitor Count](https://profile-counter.glitch.me/LDK28/count.svg)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
