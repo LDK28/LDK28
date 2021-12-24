@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">BMSTU Student and Software engineer from Russia</h3>
 
-<h3 align="left">STATS</h3>
+<h3 align="left">STATS sins 25.12.2021</h3>
 
 [![Visits now Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://github.com/LDK28)
 [![Years Badge](https://badges.pufler.dev/years/LDK28)](https://github.com/LDK28)
