@@ -6,7 +6,6 @@
 [![Visits now Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://github.com/LDK28)
 [![Years Badge](https://badges.pufler.dev/years/LDK28)](https://github.com/LDK28)
 [![Repos Badge](https://badges.pufler.dev/repos/LDK28)](https://github.com/LDK28)
-[![Updated Badge](https://badges.pufler.dev/updated/LDK28/git-badges)](https://github.com/LDK28)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/LDK28)](https://github.com/LDK28)
 
 
@@ -15,25 +14,25 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
 
-- 🔭 I’m currently working at [**I-Core**](https://i-core.ru/)
+- 🔭 I’m currently working at [I-Core](https://i-core.ru/)
 
-- 🌱 I’m currently studying at [**BMSTU**](https://bmstu.ru/)
+- 🌱 I’m currently studying at [BMSTU](https://bmstu.ru/)
 
 - 👯 I’m looking to collaborate on **...**
 
-- 🤝 I’m looking for help with **...**
+- 🤝 I’m looking for help you with everythng! Just write me😉
 
 - 👨‍💻 All of my projects are available at [https://github.com/LDK28](https://github.com/LDK28)
 
-- 📝 I regularly write articles on [...](...)
+- 📝 I regularly write articles on [https://habr.com/ru/users/LDK28/](https://habr.com/ru/users/LDK28/)
 
 - 💬 Ask me about **somthing...**
 
 - 📫 How to reach me **dkostev68@bk.ru**
 
-- 📄 Know about my experiences [...](...)
+- 📄 Know about my experiences [TODO](TODO)
 
-- ⚡ Fun fact **Run Boy Run!**
+- ⚡ Fun fact **Run Boy Run! Running is a victory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
