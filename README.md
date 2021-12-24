@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-<h3 align="center">Software engineer from Russia</h3>
+<h3 align="center">BMSTU Student and Software engineer from Russia</h3>
 
 <h3 align="left">STATS</h3>
 
