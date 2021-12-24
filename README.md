@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">Software engineer from Russia</h3>
 
-STATS
+<h3 align="left">STATS</h3>
 
 [![Visits now Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://github.com/LDK28)
 [![Years Badge](https://badges.pufler.dev/years/LDK28)](https://github.com/LDK28)
@@ -17,8 +17,7 @@ STATS
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/LDK28)](https://github.com/LDK28)
 
 
-
-LINKS
+<h3 align="left">LINKS</h3>
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
