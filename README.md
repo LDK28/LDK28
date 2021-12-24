@@ -1,10 +1,3 @@
-### Hi there 👋  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=LDK28.LDK28)
-
-**LDK28/LDK28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# NEW
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">Software engineer from Russia</h3>
 
@@ -22,9 +15,9 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/l.d.k.28)
 
-- 🔭 I’m currently working at [I-Core](https://i-core.ru/)
+- 🔭 I’m currently working at [**I-Core**](https://i-core.ru/)
 
-- 🌱 I’m currently learning **somthing...**
+- 🌱 I’m currently studying at [**BMSTU**](https://bmstu.ru/)
 
 - 👯 I’m looking to collaborate on **...**
 
