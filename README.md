@@ -1,6 +1,6 @@
 ### Hi there 👋  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=LDK28.LDK28)
 STATS
-[![Visits Badge](https://badges.LDK28.dev/visits/puf17640/git-badges)](https://badges.LDK28.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://badges.pufler.dev)
 
 LINKS
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
