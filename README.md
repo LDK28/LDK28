@@ -17,7 +17,9 @@
 [![VKontakte Badge](https://img.shields.io/badge/-VKontakte-0077ff?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/dkostev28)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/dmitry.kostev)
 
-- 🔭 I’m currently working at [ICore](https://i-core.ru/)
+- 🔭 I’m currently not working 
+- 
+- I has been workink at [ICore](https://i-core.ru/) 
 
 - 🌱 I’m currently studying at [BMSTU](https://bmstu.ru/)
 
