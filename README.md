@@ -18,10 +18,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/dmitry.kostev)
 
 - 🔭 I’m currently not working 
-- 
-- I has been workink at [ICore](https://i-core.ru/) 
 
-- 🌱 I’m currently studying at [BMSTU](https://bmstu.ru/)
+- 🌱 I’m currently studying at [BMSTU](https://bmstu.ru/) and at [VK](https://park.vk.company/)
 
 - 👯 I’m looking to collaborate on **...**
 
