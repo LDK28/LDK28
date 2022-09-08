@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">BMSTU Student and Software engineer from Russia</h3>
 
-<h3 align="left">STATS sins 25.12.2021</h3>
-
-[![Visits Badge](https://badges.pufler.dev/visits/LDK28/LDK28)](https://github.com/LDK28)
-[![Years Badge](https://badges.pufler.dev/years/LDK28)](https://github.com/LDK28)
-[![Repos Badge](https://badges.pufler.dev/repos/LDK28)](https://github.com/LDK28?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/LDK28)](https://github.com/LDK28)
-
-
 <h3 align="left">Connect with me:</h3>
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DKey28)
