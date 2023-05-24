@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-<h3 align="center">BMSTU Student and Software engineer from Russia</h3>
+<h3 align="center">BMSTU Student and Full Stack Software Engineer in VK Company from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -9,7 +9,7 @@
 [![VKontakte Badge](https://img.shields.io/badge/-VKontakte-0077ff?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/dkostev28)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/dmitry.kostev)
 
-- 🔭 I’m currently not working 
+- 🔭 I’m currently working in [VK Company](https://vk.company/en)
 
 - 🌱 I’m currently studying at [BMSTU](https://bmstu.ru/) and at [VK](https://park.vk.company/)
 
