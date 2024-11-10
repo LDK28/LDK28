@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working in [VK Company](https://vk.company/en)
 
-- 🌱 I’m currently studying at [BMSTU](https://bmstu.ru/) and at [VK](https://park.vk.company/)
+- 🌱 I’m graduated at [BMSTU](https://bmstu.ru/) and at [VK education centre](https://park.vk.company/)
 
 - 👯 I’m looking to collaborate on **...**
 
