@@ -9,7 +9,7 @@
 [![VKontakte Badge](https://img.shields.io/badge/-VKontakte-0077ff?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/dkostev28)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/dmitry.kostev)
 
-- 🔭 I’m currently working in [VK Company](https://vk.company/en)
+- 🔭 I’m currently working in [Ozon Fintech](https://finance.ozon.ru/business)
 
 - 🌱 I’m graduated at [BMSTU](https://bmstu.ru/) and at [VK education centre](https://park.vk.company/)
 
