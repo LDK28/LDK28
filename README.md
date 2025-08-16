@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-<h3 align="center">BMSTU Student and Full Stack Software Engineer in VK Company from Russia</h3>
+<h3 align="center">Frontend Engineer in Ozon Fintech Company from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
 
